@@ -1,0 +1,7 @@
+<suite name ="cowin framework">
+    <test name ="Get OTP Test">
+        <classes>
+            <class name="GetOtpTest"/>
+        </classes>
+    </test>
+</suite>

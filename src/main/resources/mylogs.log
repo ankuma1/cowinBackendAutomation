@@ -1,0 +1,74 @@
+24-07-2023 14:06:57 DEBUG test:11 - Debug log message
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:06:57 DEBUG retrofit.test: Debug log message
+24-07-2023 14:06:57 INFO  test:12 - Info log message
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:06:57 INFO retrofit.test: Info log message
+24-07-2023 14:06:57 ERROR test:13 - Error log message
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:06:57 ERROR retrofit.test: Error log message
+24-07-2023 14:06:57 DEBUG test:16 - Printing variable value Hello John 
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:06:57 DEBUG retrofit.test: Printing variable value Hello John 
+24-07-2023 14:07:10 DEBUG TestNG:82 - suiteXmlPath: "/Users/anilkumar/Library/Caches/JetBrains/IdeaIC2021.2/temp-testng-customsuite.xml"
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:07:10 DEBUG testng.TestNG: suiteXmlPath: "/Users/anilkumar/Library/Caches/JetBrains/IdeaIC2021.2/temp-testng-customsuite.xml"
+24-07-2023 14:07:11 INFO  Utils:112 - [TestNG] Running:
+  /Users/anilkumar/Library/Caches/JetBrains/IdeaIC2021.2/temp-testng-customsuite.xml
+
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:07:11 INFO internal.Utils: [TestNG] Running:
+  /Users/anilkumar/Library/Caches/JetBrains/IdeaIC2021.2/temp-testng-customsuite.xml
+
+24-07-2023 14:07:12 INFO  APITest:18 - inside API Test
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:07:12 INFO retrofit.APITest: inside API Test
+24-07-2023 14:07:12 DEBUG APITest:19 - inside API Test
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:07:12 DEBUG retrofit.APITest: inside API Test
+24-07-2023 14:07:12 ERROR APITest:20 - inside API Test
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:07:12 ERROR retrofit.APITest: inside API Test
+24-07-2023 14:07:12 INFO  APITest:21 - inside API Test
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:07:12 INFO retrofit.APITest: inside API Test
+24-07-2023 14:07:50 INFO  GetOtpTest:20 - {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 14:07:50 INFO GetOtpTest: {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+24-07-2023 15:15:15 DEBUG TestNG:82 - suiteXmlPath: "/Users/anilkumar/CowinAutomationFramework/testng.xml"
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 15:15:15 DEBUG testng.TestNG: suiteXmlPath: "/Users/anilkumar/CowinAutomationFramework/testng.xml"
+24-07-2023 15:15:15 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/anilkumar/CowinAutomationFramework/testng.xml] otherwise TestNG may fail or not work as expected.
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 15:15:15 WARN xml.TestNGContentHandler: It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/anilkumar/CowinAutomationFramework/testng.xml] otherwise TestNG may fail or not work as expected.
+24-07-2023 15:15:15 INFO  Utils:112 - [TestNG] Running:
+  /Users/anilkumar/CowinAutomationFramework/testng.xml
+
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 15:15:15 INFO internal.Utils: [TestNG] Running:
+  /Users/anilkumar/CowinAutomationFramework/testng.xml
+
+24-07-2023 15:15:57 INFO  GetOtpTest:20 - {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 15:15:57 INFO GetOtpTest: {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+24-07-2023 16:18:04 DEBUG TestNG:82 - suiteXmlPath: "/Users/anilkumar/CowinAutomationFramework/testng.xml"
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:18:04 DEBUG testng.TestNG: suiteXmlPath: "/Users/anilkumar/CowinAutomationFramework/testng.xml"
+24-07-2023 16:18:04 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/anilkumar/CowinAutomationFramework/testng.xml] otherwise TestNG may fail or not work as expected.
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:18:04 WARN xml.TestNGContentHandler: It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/anilkumar/CowinAutomationFramework/testng.xml] otherwise TestNG may fail or not work as expected.
+24-07-2023 16:18:05 INFO  Utils:112 - [TestNG] Running:
+  /Users/anilkumar/CowinAutomationFramework/testng.xml
+
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:18:05 INFO internal.Utils: [TestNG] Running:
+  /Users/anilkumar/CowinAutomationFramework/testng.xml
+
+24-07-2023 16:18:44 INFO  GetOtpTest:20 - {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:18:44 INFO GetOtpTest: {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+24-07-2023 16:39:16 DEBUG TestNG:82 - suiteXmlPath: "/Users/anilkumar/CowinAutomationFramework/testng.xml"
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:39:16 DEBUG testng.TestNG: suiteXmlPath: "/Users/anilkumar/CowinAutomationFramework/testng.xml"
+24-07-2023 16:39:16 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/anilkumar/CowinAutomationFramework/testng.xml] otherwise TestNG may fail or not work as expected.
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:39:16 WARN xml.TestNGContentHandler: It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/anilkumar/CowinAutomationFramework/testng.xml] otherwise TestNG may fail or not work as expected.
+24-07-2023 16:39:17 INFO  Utils:112 - [TestNG] Running:
+  /Users/anilkumar/CowinAutomationFramework/testng.xml
+
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:39:17 INFO internal.Utils: [TestNG] Running:
+  /Users/anilkumar/CowinAutomationFramework/testng.xml
+
+24-07-2023 16:39:52 INFO  GetOtpTest:20 - {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:39:52 INFO GetOtpTest: {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+24-07-2023 16:51:02 DEBUG TestNG:82 - suiteXmlPath: "/Users/anilkumar/CowinAutomationFramework/testng.xml"
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:51:02 DEBUG testng.TestNG: suiteXmlPath: "/Users/anilkumar/CowinAutomationFramework/testng.xml"
+24-07-2023 16:51:02 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/anilkumar/CowinAutomationFramework/testng.xml] otherwise TestNG may fail or not work as expected.
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:51:02 WARN xml.TestNGContentHandler: It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [/Users/anilkumar/CowinAutomationFramework/testng.xml] otherwise TestNG may fail or not work as expected.
+24-07-2023 16:51:03 INFO  Utils:112 - [TestNG] Running:
+  /Users/anilkumar/CowinAutomationFramework/testng.xml
+
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:51:03 INFO internal.Utils: [TestNG] Running:
+  /Users/anilkumar/CowinAutomationFramework/testng.xml
+
+24-07-2023 16:51:39 INFO  GetOtpTest:20 - {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
+log4j.appender.stdout.layout.ConversionPattern=23/07/24 16:51:39 INFO GetOtpTest: {"errorCode":"USRAUT0022", "error":"Invalid Secret Key"}
