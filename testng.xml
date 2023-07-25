@@ -1,7 +1,9 @@
-<suite name ="cowin framework">
-    <test name ="Get OTP Test">
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cowin automation tests">
+    <test name="cowin test">
         <classes>
-            <class name="GetOtpTest"/>
+            <class name="GetOtpTest"></class>
         </classes>
     </test>
 </suite>
