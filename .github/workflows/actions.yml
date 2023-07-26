@@ -12,3 +12,5 @@ jobs:
         run: |
           pwd
           ls
+      - name: run maven cmd
+        run: mvn clean compile
