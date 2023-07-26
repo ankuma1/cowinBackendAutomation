@@ -9,7 +9,7 @@ jobs:
       - name: echo a string
         run: echo "hello world"
       - name: multiline script
-        run: | 
+        run: |
           node -v
           npm -v
       - name: python cmd
@@ -17,6 +17,11 @@ jobs:
           import platform
           print(platform.processor())
         shell: python
-
-
-         
+  run-on-windows:
+    runs-on: windows-latest
+    steps:
+      - name: windows powershell
+        run: Get-Location
+      - name: Directory Bash
+        run: pwd
+        shell: bash
