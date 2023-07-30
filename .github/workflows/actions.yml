@@ -16,4 +16,4 @@ jobs:
           distribution: 'adopt'
           architecture: x64
       - name: compile the code
-        run: mvn clean test
+        run: mvn clean test -Dsurefire.suiteXmlFiles=testng.xml
