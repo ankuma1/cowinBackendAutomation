@@ -18,6 +18,7 @@ public class GetOtpTest{
         GenerateOtpClients generateOtpClients =  new GenerateOtpClients();
         Response<GenerateOTPResponse>generateOTPResponseResponse = generateOtpClients.getOtp("6363360126","U2FsdGVkX1/K10bXSsDZI+l05XTwv2Hbo7+jbsk7AY******************************DnJPuwHUKOC5A==");
         logger.info(generateOTPResponseResponse.errorBody().string());
+        logger.info("hello added webhook");
         Assert.assertEquals(generateOTPResponseResponse.code(),400);
 
 
